@@ -1,0 +1,24 @@
+# Credentials
+credentials/
+*.json
+token.json
+.env
+
+# Binary
+driver-organizer
+driver-organizer.exe
+
+# Go
+vendor/
+*.test
+*.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
